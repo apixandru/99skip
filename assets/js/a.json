@@ -1,0 +1,484 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 1,
+    "params": {
+      "q": "commons-io",
+      "core": "",
+      "defType": "dismax",
+      "spellcheck": "true",
+      "qf": "text^20 g^5 a^10",
+      "indent": "off",
+      "fl": "id,g,a,latestVersion,p,ec,repositoryId,text,timestamp,versionCount",
+      "start": "0",
+      "sort": "score desc,timestamp desc,g asc,a asc",
+      "spellcheck.count": "5",
+      "rows": "20",
+      "wt": "json",
+      "version": "2.2"
+    }
+  },
+  "response": {
+    "numFound": 52,
+    "start": 0,
+    "docs": [
+      {
+        "id": "com.mizhousoft.commons:commons-io",
+        "g": "com.mizhousoft.commons",
+        "a": "commons-io",
+        "latestVersion": "1.0.0",
+        "repositoryId": "central",
+        "p": "jar",
+        "timestamp": 1622345925000,
+        "versionCount": 1,
+        "text": [
+          "com.mizhousoft.commons",
+          "commons-io",
+          "-sources.jar",
+          "-javadoc.jar",
+          ".jar",
+          ".pom"
+        ],
+        "ec": [
+          "-sources.jar",
+          "-javadoc.jar",
+          ".jar",
+          ".pom"
+        ]
+      },
+      {
+        "id": "de.unkrig.commons:commons-io",
+        "g": "de.unkrig.commons",
+        "a": "commons-io",
+        "latestVersion": "1.2.15",
+        "repositoryId": "central",
+        "p": "jar",
+        "timestamp": 1604668594000,
+        "versionCount": 16,
+        "text": [
+          "de.unkrig.commons",
+          "commons-io",
+          "-sources.jar",
+          "-javadoc.jar",
+          ".jar",
+          ".pom"
+        ],
+        "ec": [
+          "-sources.jar",
+          "-javadoc.jar",
+          ".jar",
+          ".pom"
+        ]
+      },
+      {
+        "id": "org.checkerframework.annotatedlib:commons-io",
+        "g": "org.checkerframework.annotatedlib",
+        "a": "commons-io",
+        "latestVersion": "2.8.0.1",
+        "repositoryId": "central",
+        "p": "jar",
+        "timestamp": 1602521227000,
+        "versionCount": 5,
+        "text": [
+          "org.checkerframework.annotatedlib",
+          "commons-io",
+          "-sources.jar",
+          "-javadoc.jar",
+          ".jar",
+          ".pom"
+        ],
+        "ec": [
+          "-sources.jar",
+          "-javadoc.jar",
+          ".jar",
+          ".pom"
+        ]
+      },
+      {
+        "id": "org.openforis.commons:commons-io",
+        "g": "org.openforis.commons",
+        "a": "commons-io",
+        "latestVersion": "0.1.27",
+        "repositoryId": "central",
+        "p": "jar",
+        "timestamp": 1601332289000,
+        "versionCount": 1,
+        "text": [
+          "org.openforis.commons",
+          "commons-io",
+          "-javadoc.jar",
+          "-sources.jar",
+          ".jar",
+          ".pom"
+        ],
+        "ec": [
+          "-javadoc.jar",
+          "-sources.jar",
+          ".jar",
+          ".pom"
+        ]
+      },
+      {
+        "id": "se.l4.commons:commons-io",
+        "g": "se.l4.commons",
+        "a": "commons-io",
+        "latestVersion": "1.2.2",
+        "repositoryId": "central",
+        "p": "jar",
+        "timestamp": 1592377925000,
+        "versionCount": 5,
+        "text": [
+          "se.l4.commons",
+          "commons-io",
+          "-javadoc.jar",
+          "-sources.jar",
+          ".jar",
+          ".pom"
+        ],
+        "ec": [
+          "-javadoc.jar",
+          "-sources.jar",
+          ".jar",
+          ".pom"
+        ]
+      },
+      {
+        "id": "io.github.qsy7.java.modules.download.providers:commons-io",
+        "g": "io.github.qsy7.java.modules.download.providers",
+        "a": "commons-io",
+        "latestVersion": "0.1.0",
+        "repositoryId": "central",
+        "p": "pom",
+        "timestamp": 1576535400000,
+        "versionCount": 1,
+        "text": [
+          "io.github.qsy7.java.modules.download.providers",
+          "commons-io",
+          ".pom"
+        ],
+        "ec": [
+          ".pom"
+        ]
+      },
+      {
+        "id": "io.github.qsy7.java.dependencies:commons-io",
+        "g": "io.github.qsy7.java.dependencies",
+        "a": "commons-io",
+        "latestVersion": "0.1.0",
+        "repositoryId": "central",
+        "p": "pom",
+        "timestamp": 1576534977000,
+        "versionCount": 1,
+        "text": [
+          "io.github.qsy7.java.dependencies",
+          "commons-io",
+          ".pom"
+        ],
+        "ec": [
+          ".pom"
+        ]
+      },
+      {
+        "id": "com.guicedee.services:commons-io",
+        "g": "com.guicedee.services",
+        "a": "commons-io",
+        "latestVersion": "62",
+        "repositoryId": "central",
+        "p": "jar",
+        "timestamp": 1574626072000,
+        "versionCount": 442,
+        "text": [
+          "com.guicedee.services",
+          "commons-io",
+          "-javadoc.jar",
+          "-sources.jar",
+          ".jar",
+          "-tests.jar",
+          ".pom"
+        ],
+        "ec": [
+          "-javadoc.jar",
+          "-sources.jar",
+          ".jar",
+          "-tests.jar",
+          ".pom"
+        ]
+      },
+      {
+        "id": "com.github.datastax-oss:commons-io",
+        "g": "com.github.datastax-oss",
+        "a": "commons-io",
+        "latestVersion": "2.2.2",
+        "repositoryId": "central",
+        "p": "jar",
+        "timestamp": 1570507603000,
+        "versionCount": 3,
+        "text": [
+          "com.github.datastax-oss",
+          "commons-io",
+          "-sources.jar",
+          "-javadoc.jar",
+          ".jar",
+          ".pom"
+        ],
+        "ec": [
+          "-sources.jar",
+          "-javadoc.jar",
+          ".jar",
+          ".pom"
+        ]
+      },
+      {
+        "id": "org.carlspring.commons:commons-io",
+        "g": "org.carlspring.commons",
+        "a": "commons-io",
+        "latestVersion": "1.1",
+        "repositoryId": "central",
+        "p": "jar",
+        "timestamp": 1570273993000,
+        "versionCount": 2,
+        "text": [
+          "org.carlspring.commons",
+          "commons-io",
+          "-javadoc.jar",
+          "-sources.jar",
+          ".jar",
+          ".pom"
+        ],
+        "ec": [
+          "-javadoc.jar",
+          "-sources.jar",
+          ".jar",
+          ".pom"
+        ]
+      },
+      {
+        "id": "com.github.venus-ai:commons-io",
+        "g": "com.github.venus-ai",
+        "a": "commons-io",
+        "latestVersion": "2.1.0",
+        "repositoryId": "central",
+        "p": "jar",
+        "timestamp": 1569054381000,
+        "versionCount": 1,
+        "text": [
+          "com.github.venus-ai",
+          "commons-io",
+          "-javadoc.jar",
+          "-sources.jar",
+          ".jar",
+          ".pom"
+        ],
+        "ec": [
+          "-javadoc.jar",
+          "-sources.jar",
+          ".jar",
+          ".pom"
+        ]
+      },
+      {
+        "id": "com.walterjwhite.java.modules.download.providers:commons-io",
+        "g": "com.walterjwhite.java.modules.download.providers",
+        "a": "commons-io",
+        "latestVersion": "0.0.17",
+        "repositoryId": "central",
+        "p": "pom",
+        "timestamp": 1567442527000,
+        "versionCount": 1,
+        "text": [
+          "com.walterjwhite.java.modules.download.providers",
+          "commons-io",
+          ".pom"
+        ],
+        "ec": [
+          ".pom"
+        ]
+      },
+      {
+        "id": "com.walterjwhite.java.dependencies:commons-io",
+        "g": "com.walterjwhite.java.dependencies",
+        "a": "commons-io",
+        "latestVersion": "0.0.17",
+        "repositoryId": "central",
+        "p": "pom",
+        "timestamp": 1567442271000,
+        "versionCount": 2,
+        "text": [
+          "com.walterjwhite.java.dependencies",
+          "commons-io",
+          ".pom"
+        ],
+        "ec": [
+          ".pom"
+        ]
+      },
+      {
+        "id": "com.jwebmp.jpms.commons:commons-io",
+        "g": "com.jwebmp.jpms.commons",
+        "a": "commons-io",
+        "latestVersion": "0.68.0.1",
+        "repositoryId": "central",
+        "p": "jar",
+        "timestamp": 1565351398000,
+        "versionCount": 11,
+        "text": [
+          "com.jwebmp.jpms.commons",
+          "commons-io",
+          "-javadoc.jar",
+          "-sources.jar",
+          ".jar",
+          "-tests.jar",
+          ".pom"
+        ],
+        "ec": [
+          "-javadoc.jar",
+          "-sources.jar",
+          ".jar",
+          "-tests.jar",
+          ".pom"
+        ]
+      },
+      {
+        "id": "com.jwebmp:commons-io",
+        "g": "com.jwebmp",
+        "a": "commons-io",
+        "latestVersion": "0.66.0.1",
+        "repositoryId": "central",
+        "p": "jar",
+        "timestamp": 1554891999000,
+        "versionCount": 11,
+        "text": [
+          "com.jwebmp",
+          "commons-io",
+          "-javadoc.jar",
+          "-sources.jar",
+          ".jar",
+          "-tests.jar",
+          ".pom"
+        ],
+        "ec": [
+          "-javadoc.jar",
+          "-sources.jar",
+          ".jar",
+          "-tests.jar",
+          ".pom"
+        ]
+      },
+      {
+        "id": "com.jwebmp.jre11:commons-io",
+        "g": "com.jwebmp.jre11",
+        "a": "commons-io",
+        "latestVersion": "0.63.0.19",
+        "repositoryId": "central",
+        "p": "jar",
+        "timestamp": 1545265664000,
+        "versionCount": 4,
+        "text": [
+          "com.jwebmp.jre11",
+          "commons-io",
+          "-sources.jar",
+          "-javadoc.jar",
+          "-tests.jar",
+          ".jar",
+          ".pom"
+        ],
+        "ec": [
+          "-sources.jar",
+          "-javadoc.jar",
+          "-tests.jar",
+          ".jar",
+          ".pom"
+        ]
+      },
+      {
+        "id": "org.lucee:commons-io",
+        "g": "org.lucee",
+        "a": "commons-io",
+        "latestVersion": "2.6.0",
+        "repositoryId": "central",
+        "p": "bundle",
+        "timestamp": 1521480054000,
+        "versionCount": 4,
+        "text": [
+          "org.lucee",
+          "commons-io",
+          ".jar",
+          ".pom"
+        ],
+        "ec": [
+          ".jar",
+          ".pom"
+        ]
+      },
+      {
+        "id": "com.walterjwhite.infrastructure.dependencies:commons-io",
+        "g": "com.walterjwhite.infrastructure.dependencies",
+        "a": "commons-io",
+        "latestVersion": "0.0.15",
+        "repositoryId": "central",
+        "p": "pom",
+        "timestamp": 1513619026000,
+        "versionCount": 5,
+        "text": [
+          "com.walterjwhite.infrastructure.dependencies",
+          "commons-io",
+          ".pom"
+        ],
+        "ec": [
+          ".pom"
+        ]
+      },
+      {
+        "id": "com.xwzhou:commons-io",
+        "g": "com.xwzhou",
+        "a": "commons-io",
+        "latestVersion": "0.0.1",
+        "repositoryId": "central",
+        "p": "jar",
+        "timestamp": 1481269872000,
+        "versionCount": 1,
+        "text": [
+          "com.xwzhou",
+          "commons-io",
+          "-javadoc.jar",
+          "-sources.jar",
+          ".jar",
+          ".pom"
+        ],
+        "ec": [
+          "-javadoc.jar",
+          "-sources.jar",
+          ".jar",
+          ".pom"
+        ]
+      },
+      {
+        "id": "org.apache.commons:commons-io",
+        "g": "org.apache.commons",
+        "a": "commons-io",
+        "latestVersion": "1.3.2",
+        "repositoryId": "central",
+        "p": "jar",
+        "timestamp": 1349810931000,
+        "versionCount": 1,
+        "text": [
+          "org.apache.commons",
+          "commons-io",
+          "-sources.jar",
+          "-javadoc.jar",
+          ".jar",
+          ".pom"
+        ],
+        "ec": [
+          "-sources.jar",
+          "-javadoc.jar",
+          ".jar",
+          ".pom"
+        ]
+      }
+    ]
+  },
+  "spellcheck": {
+    "suggestions": []
+  }
+}
